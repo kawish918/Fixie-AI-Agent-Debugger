@@ -209,8 +209,8 @@ pip install langchain langgraph
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [Ollama Documentation](https://ollama.ai/docs)
 - [Llama 3.2 Model Card](https://ollama.ai/library/llama3.2)
-- [Get LangSmith API Key].(https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key)
-- [LangGraph Local Server].(https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/)
+- [Get LangSmith API Key](https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key)
+- [LangGraph Local Server](https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/)
 
 ## 📄 License
 
