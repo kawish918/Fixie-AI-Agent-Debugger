@@ -27,14 +27,14 @@ An intelligent Python debugging assistant powered by AI agents using LangChain a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fixie-ai-debugger.git
+   git clone https://github.com/kawish918/Fixie-AI-Agent-Debugger.git
    cd fixie-ai-debugger
    ```
 
 2. **Create virtual environment**
    ```bash
    python -m venv fixie
-   source fixie/bin/activate  # On Windows: fixie\Scripts\activate
+   fixie\Scripts\activate
    ```
 
 3. **Install dependencies**
