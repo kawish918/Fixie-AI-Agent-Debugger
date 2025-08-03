@@ -19,7 +19,7 @@ An intelligent Python debugging assistant powered by AI agents using LangChain a
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.8+ (3.10+ preferred)
 - Ollama installed and running
 - Git (for cloning)
 
